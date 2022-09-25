@@ -1,0 +1,4 @@
+This is file 6
+Wow! Comments!
+Good night!
+Two strings added
